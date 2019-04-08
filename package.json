@@ -41,6 +41,6 @@
     "standard-version": "^5.0.0"
   },
   "dependencies": {
-    "dot-prop": "^4.2.0"
+    "dot-prop": "^5.0.0"
   }
 }
